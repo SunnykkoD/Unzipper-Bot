@@ -91,7 +91,6 @@ Hi **{}**, I'm **Sunny's Unzipper Bot** 😇!
 
 ✘ **Language:** [Python](https://www.python.org/)
 ✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
-✘
 ✘ **Developer:** Itz-Fork
 
 
